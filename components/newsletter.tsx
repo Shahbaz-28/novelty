@@ -5,7 +5,7 @@ import { Mail } from "lucide-react"
 export default function Newsletter() {
   return (
     <section className="py-16 bg-purple-600">
-      <div className="container mx-auto px-10 text-center">
+      <div className="container mx-auto px-4 sm:px-6 lg:px-10 text-center">
         <div className="max-w-2xl mx-auto space-y-6">
           <h2 className="text-3xl font-bold text-white">Stay in the Loop!</h2>
           <p className="text-lg text-purple-100">

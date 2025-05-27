@@ -43,7 +43,7 @@ const products = [
 
   return (
     <section className="py-16 bg-white">
-      <div className="container mx-auto px-10">
+      <div className="container mx-auto px-4 lg:px-10">
         <div className="text-center mb-12">
           <Badge className="bg-teal-100 text-teal-700 mb-4">Popular Items</Badge>
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Featured Products</h2>

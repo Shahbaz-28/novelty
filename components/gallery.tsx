@@ -68,7 +68,7 @@ export default function Gallery() {
 
   return (
     <section className="py-16 bg-gray-50">
-      <div className="container mx-auto px-10">
+      <div className="container mx-auto px-4 lg:px-10">
         {/* Header */}
         <div className="text-center mb-12">
           <Badge className="bg-purple-100 text-purple-700 mb-4">

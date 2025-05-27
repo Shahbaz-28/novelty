@@ -5,7 +5,7 @@ import Image from "next/image"
 export default function About() {
   return (
     <section className="py-16 bg-gray-50">
-      <div className="container mx-auto px-10">
+      <div className="container mx-auto px-4 lg:px-10">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <Badge className="bg-orange-100 text-orange-700">
