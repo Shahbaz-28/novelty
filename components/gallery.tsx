@@ -41,27 +41,27 @@ export default function Gallery() {
       category: "Stationery",
       isVideo: false,
     },
-    {
-      id: 6,
-      image: "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Product Display",
-      category: "Home Decor",
-      isVideo: false,
-    },
-    {
-      id: 7,
-      image: "https://images.unsplash.com/photo-1483546363825-7ebf25fb7513?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Creative Journals",
-      category: "Stationery",
-      isVideo: false,
-    },
-    {
-      id: 8,
-      image: "https://images.unsplash.com/photo-1608533734358-06167a1844d4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Happy Faces",
-      category: "Community",
-      isVideo: false,
-    },
+    // {
+    //   id: 6,
+    //   image: "https://images.unsplash.com/photo-1581783342308-f792dbdd27c5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    //   title: "Product Display",
+    //   category: "Home Decor",
+    //   isVideo: false,
+    // },
+    // {
+    //   id: 7,
+    //   image: "https://images.unsplash.com/photo-1483546363825-7ebf25fb7513?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    //   title: "Creative Journals",
+    //   category: "Stationery",
+    //   isVideo: false,
+    // },
+    // {
+    //   id: 8,
+    //   image: "https://images.unsplash.com/photo-1608533734358-06167a1844d4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    //   title: "Happy Faces",
+    //   category: "Community",
+    //   isVideo: false,
+    // },
   ]
 
   const categories = ["All", "Drinkware", "Toys", "Stationery", "Home Decor", "Behind the Scenes", "Community"]
